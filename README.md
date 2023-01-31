@@ -12,7 +12,7 @@
 
 **This project, this is not a package of mini games, nor an elaborate API for creating them.**
 
-**It's a collection of modules to plug into gradle, so we can import only the libraries we need instead of a whole overloaded API with a lot of functionality that we won't fully use in one mini game.**
+**It's a collection of modules to be implemented in gradle, so we can import only the libraries we need instead of a whole overloaded API with tons of functionality that we won't fully use in one mini game.**
 
 **This form also makes it easier to edit the library to suit your needs and to comply with the principle of minimum dependencies**
 
