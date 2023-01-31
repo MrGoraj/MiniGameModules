@@ -27,7 +27,7 @@
 ### Supported Mini Games
 
 * BedWars (TODO)
-* SkyWars
+* SkyWars (TODO)
 * Blitz Survival Games (TODO)
 * Murder Mystery (TODO)
 * VampireZ (TODO)
