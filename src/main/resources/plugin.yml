@@ -1,0 +1,6 @@
+name: MiniGameModules
+version: '${version}'
+main: me.goraj.minigamemodules.MiniGameModules
+api-version: 1.19
+authors: [ Goraj ]
+website: https://github.com/MrGoraj/MiniGameModules
