@@ -1,1 +1,20 @@
+pluginManagement {
+    repositories {
+        mavenCentral()
+        maven {
+            name = 'papermc-repo'
+            url = 'https://repo.papermc.io/repository/maven-public/'
+        }
+        maven {
+            name = 'sonatype'
+            url = 'https://oss.sonatype.org/content/groups/public/'
+        }
+    }
+}
+
 rootProject.name = 'MiniGameModules'
+include 'team'
+include 'core'
+include 'arena'
+include 'kit'
+

@@ -1,0 +1,4 @@
+name: Team
+version: '${version}'
+main: me.goraj.minigamemodules.team.Team
+api-version: 1.19
