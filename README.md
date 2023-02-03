@@ -1,3 +1,6 @@
+
+# MiniGameModules
+
 # Minecraft Mini Game Modules
 
 **This project is still in the development stage and is not suitable for practical use**
@@ -53,4 +56,3 @@ Project is created with:
 ## Setup
 
 Simply download the package or module of your choice, then plug them into your project with gradle using <a href="https://docs.gradle.org/current/userguide/declaring_dependencies_between_subprojects.html" target="_blank">official guide to adding local dependencies</a>
-
