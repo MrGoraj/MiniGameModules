@@ -21,7 +21,7 @@
 
 ## Features
 
-* Teams (TODO)
+* Teams (In progress)
 * Arena System (TODO)
 * Kits/Classes (TODO)
 * Party (/party) (TODO)
