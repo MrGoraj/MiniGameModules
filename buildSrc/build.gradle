@@ -1,0 +1,35 @@
+plugins {
+    id 'groovy-gradle-plugin'
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+    gradlePluginPortal()
+}
+
+
+dependencies {
+}
+
+compileJava {
+    options.compilerArgs += ["--add-opens", "java.base/java.lang=ALL-UNNAMED"]
+}
+
+compileTestJava {
+    options.compilerArgs += ["--add-opens", "java.base/java.lang=ALL-UNNAMED"]
+}
+
+test {
+    jvmArgs += ["--add-opens", "java.base/java.lang=ALL-UNNAMED"]
+}
+
+group = 'me.goraj.minigamemodules'
+version = '1.0-SNAPSHOT'
+
+subprojects {
+    repositories {
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
