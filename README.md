@@ -25,7 +25,7 @@
 * Arena System (TODO)
 * Kits/Classes (TODO)
 * Party (/party) (TODO)
-* Velocity support (TODO)
+* BungeeCord/Velocity support (TODO)
 
 ### Supported Mini Games
 
@@ -50,8 +50,8 @@
 Project is created with:
 
 * Java 17
-* Gradle 7.6
-* PaperSpigotAPI 1.19.3-R0.1-SNAPSHOT
+* Gradle 8.2
+* PaperSpigotAPI 1.20.1-R0.1-SNAPSHOT
 
 ## Setup
 
